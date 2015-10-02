@@ -1,0 +1,12 @@
+E:\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+E:\ScriptTool\Test1\bin\Debug\Script Utility.exe
+E:\ScriptTool\Test1\bin\Debug\Script Utility.pdb
+E:\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+E:\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+E:\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+E:\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+E:\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+E:\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+E:\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
+E:\ScriptTool\Test1\obj\Debug\Script Utility.exe
+E:\ScriptTool\Test1\obj\Debug\Script Utility.pdb

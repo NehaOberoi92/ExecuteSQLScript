@@ -1,0 +1,12 @@
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Script Utility.exe.config
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Script Utility.exe
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Script Utility.pdb
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Acidaes.BusinessNext.Caching.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Acidaes.Data.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Acidaes.Deployment.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Test1.Form1.resources
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Test1.Properties.Resources.resources
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.csproj.GenerateResource.Cache
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.exe
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.pdb
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.csprojResolveAssemblyReference.cache
