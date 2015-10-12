@@ -7,7 +7,7 @@ namespace Test1
 {
     static class Program
     {
-        /// <summary>
+        /// <summaary>
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
