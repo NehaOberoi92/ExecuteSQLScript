@@ -10,3 +10,6 @@ D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.exe
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.pdb
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.csprojResolveAssemblyReference.cache
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\x64\Release\Script Utility.exe.config
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.exe
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\x64\Release\Script Utility.pdb
