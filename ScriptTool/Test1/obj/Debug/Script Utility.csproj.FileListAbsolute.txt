@@ -22,3 +22,15 @@ D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Properties.Reso
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
 D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.pdb
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
+D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
