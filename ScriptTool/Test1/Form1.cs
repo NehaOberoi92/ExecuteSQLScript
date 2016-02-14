@@ -112,6 +112,7 @@ namespace Test1
         }
 
         //Exception Textbox Visibility *Neha Oberoi
+		//EDIT
         private void txtException_TextChanged(object sender, EventArgs e)
         {
             if (txtException.Visible == false)
