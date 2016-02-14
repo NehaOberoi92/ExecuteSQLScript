@@ -111,7 +111,7 @@ namespace Test1
             return;
         }
 
-        //Exception Textbox Visibility
+        //Exception Textbox Visibility *Neha
         private void txtException_TextChanged(object sender, EventArgs e)
         {
             if (txtException.Visible == false)
