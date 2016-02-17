@@ -34,3 +34,6 @@ D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Properties.Reso
 D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
 D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
 D:\GIT_PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
+D:\HimanshuRepository\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+D:\HimanshuRepository\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
+D:\HimanshuRepository\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
